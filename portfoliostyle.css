@@ -213,7 +213,7 @@ section{
     font-size: 2.5em;
 }
 
-#services{
+#projects{
     background-color: var(--background);
 }
 
@@ -224,7 +224,7 @@ section{
     color: white;
 }
 
-.services-container{
+.projects-container{
     display: grid;
     grid-template-columns: repeat(auto-fit,minimax(250px, 1fr));
     gap: 2em;
